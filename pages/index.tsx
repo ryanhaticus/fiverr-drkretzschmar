@@ -329,11 +329,11 @@ const Index = () => {
                 </svg>
                 <div className='relative text-base mx-auto max-w-prose lg:max-w-none'>
                   <figure>
-                    <div className='aspect-w-12 aspect-h-7 lg:aspect-none'>
+                    <div className='aspect-w-12 aspect-h-12 lg:aspect-h-7 lg:aspect-none'>
                       <img
                         className='rounded-lg shadow-lg object-cover object-center'
                         src='/photo.jpg'
-                        alt='Günter Kretzschmar'
+                        alt='Dr. Kretzschmar'
                         width='1184'
                         height='1376'
                       />
